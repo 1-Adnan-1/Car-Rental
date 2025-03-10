@@ -33,4 +33,3 @@ CarRental, kullanıcıların araçları listeleyebileceği ve araçların detayl
   - **StartStop**: Start/Stop teknolojisinin durumu
 
 - **Varsayılan Resim**: Eğer bir araç için resim yoksa, varsayılan bir resim gösterilir.
-# Car-Rental
